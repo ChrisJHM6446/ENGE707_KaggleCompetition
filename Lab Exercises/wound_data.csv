@@ -1,0 +1,11 @@
+patient_id,temperature,pH,status,healing_days
+1,36.4,7.08,stable,10
+2,36.6,7.01,stable,11
+3,36.7,7.24,stable,13
+4,36.9,7.33,stable,15
+5,37.0,7.05,stable,14
+6,37.1,7.18,stable,17
+7,37.2,7.31,stable,19
+8,37.4,7.42,stable,22
+9,37.5,7.50,deteriorating,29
+10,37.6,7.53,stable,24

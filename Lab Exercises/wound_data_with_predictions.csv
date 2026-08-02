@@ -1,0 +1,11 @@
+patient_id,temperature,pH,status,healing_days,high_temperature,high_pH,combined_risk,prediction,correct
+1,36.4,7.08,stable,10,False,False,-0.00900000000000089,stable,True
+2,36.6,7.01,stable,11,False,False,0.07200000000000079,stable,True
+3,36.7,7.24,stable,13,False,False,0.29800000000000204,stable,True
+4,36.9,7.33,stable,15,False,False,0.4909999999999991,stable,True
+5,37.0,7.05,stable,14,False,False,0.3599999999999999,stable,True
+6,37.1,7.18,stable,17,False,False,0.5160000000000008,stable,True
+7,37.2,7.31,stable,19,False,False,0.6720000000000016,stable,True
+8,37.4,7.42,stable,22,False,False,0.878999999999999,stable,True
+9,37.5,7.5,deteriorating,29,False,False,1.0,stable,False
+10,37.6,7.53,stable,24,False,False,1.0860000000000012,stable,True
