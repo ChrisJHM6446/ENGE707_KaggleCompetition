@@ -1,0 +1,10 @@
+.vscode/
+.venv/
+venv/
+env/
+__pycache__/
+.ipynb_checkpoints/
+.env
+kaggle.json
+*.zip
+enge-707-2026-s-2-cat-and-dog-facial-feature-classification-ch/
