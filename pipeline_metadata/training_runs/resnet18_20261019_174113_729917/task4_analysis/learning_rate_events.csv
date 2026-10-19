@@ -1,0 +1,4 @@
+epoch,stage,stage_epoch,lr_layer4,lr_head
+1,head,1,,0.001
+4,fine_tune,1,1e-05,0.0001
+14,fine_tune,11,5e-06,5e-05

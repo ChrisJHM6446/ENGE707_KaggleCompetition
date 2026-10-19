@@ -1,0 +1,3 @@
+stage,stage_epoch,global_epoch,validation_loss,validation_accuracy_percent,validation_macro_f1
+Classifier only,2,2,0.1154074986733582,96.2378259503613,0.9637381515745156
+Partial fine-tuning,7,10,0.0165891375913051,99.49732956330506,0.9953329198994272
