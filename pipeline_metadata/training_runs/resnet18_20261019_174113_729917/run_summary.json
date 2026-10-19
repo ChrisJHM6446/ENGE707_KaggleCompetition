@@ -1,0 +1,12 @@
+{
+  "run": "resnet18_20261019_174113_729917",
+  "selected_stage": "fine_tune",
+  "selected_stage_epoch": 7,
+  "epochs_completed": 14,
+  "validation": {
+    "loss": 0.01658913759130515,
+    "accuracy": 0.9949732956330506,
+    "macro_f1": 0.9953329198994271
+  },
+  "checkpoint": "C:\\Users\\chris\\OneDrive - AUT University\\Documents\\dataeng_ai_foundation\\KaggleCompetition\\model_checkpoints\\resnet18_20261019_174113_729917\\fine_tune_best.pt"
+}
