@@ -1,0 +1,24 @@
+{
+  "run": "resnet18_20261019_174113_729917",
+  "checkpoint": "C:\\Users\\chris\\OneDrive - AUT University\\Documents\\dataeng_ai_foundation\\KaggleCompetition\\model_checkpoints\\resnet18_20261019_174113_729917\\fine_tune_best.pt",
+  "selected_stage": "fine_tune",
+  "selected_stage_epoch": 7,
+  "submission_file": "C:\\Users\\chris\\OneDrive - AUT University\\Documents\\dataeng_ai_foundation\\KaggleCompetition\\pipeline_metadata\\training_runs\\resnet18_20261019_174113_729917\\submission_resnet18.csv",
+  "submission_rows": 29443,
+  "submission_sha256": "2696bc452437f0d40c9dbd99065923825d1c49de191d98f7b385f911a058df4e",
+  "validation_metrics": {
+    "loss": 0.01658913759306071,
+    "accuracy": 0.9949732956330506,
+    "macro_precision": 0.995505566091929,
+    "macro_recall": 0.9951675130266506,
+    "macro_f1": 0.9953329198994271,
+    "weighted_f1": 0.9949745245380033
+  },
+  "kaggle_username": "Christopher Prasad",
+  "kaggle_metric": "Accuracy",
+  "kaggle_public_score": 0.9368,
+  "kaggle_submission_id": "Couldn't find it",
+  "evidence_file": "Screenshot 2026-10-20 122738.png",
+  "matching_validation_score": 0.9949732956330506,
+  "validation_minus_kaggle": 0.058173295633050626
+}
