@@ -1,0 +1,18 @@
+image_id,class,reason
+01068,DogEye,.
+01594,CatMouth,.
+10106,CatNose,.
+12118,CatNose,.
+14181,CatEye,.
+14669,DogEye,"Clump of pixels, no valuable learning extracted from this. These types of images are the only ones I will exclude; this reason applies to all below."
+21923,CatEye,.
+25809,DogNose,.
+32164,CatEye,.
+34357,DogMouth,.
+36018,CatNose,.
+37907,CatEye,.
+44794,CatMouth,.
+49534,DogEye,.
+51449,CatMouth,.
+57707,CatFace,.
+62253,CatNose,.
