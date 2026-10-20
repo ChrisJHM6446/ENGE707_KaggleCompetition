@@ -1,0 +1,67 @@
+{
+  "run": "rn18_b24_do4_l3l4_adamw_v1_20261020_141526_603744",
+  "checkpoint": "C:\\Users\\chris\\OneDrive - AUT University\\Documents\\dataeng_ai_foundation\\KaggleCompetition\\model_checkpoints\\rn18_b24_do4_l3l4_adamw_v1_20261020_141526_603744\\best.pt",
+  "config": {
+    "tag": "rn18_b24_do4_l3l4_adamw_v1",
+    "architecture": "resnet18",
+    "initialization": "imagenet",
+    "image_size": 224,
+    "seed": 42,
+    "batch_size": 24,
+    "dropout": 0.4,
+    "unfreeze": [
+      "layer4",
+      "layer3"
+    ],
+    "head_epochs": 3,
+    "fine_epochs": 12,
+    "head_lr": 0.001,
+    "fine_head_lr": 0.0002,
+    "backbone_lr": 1e-05,
+    "optimizer": "adamw",
+    "momentum": 0.9,
+    "weight_decay": 0.0004,
+    "label_smoothing": 0.01,
+    "class_weights": false,
+    "scheduler": "plateau",
+    "scheduler_patience": 2,
+    "lr_factor": 0.5,
+    "min_lr": 1e-07,
+    "early_patience": 4,
+    "clip_norm": 0.0,
+    "amp": false,
+    "update_bn_stats": true,
+    "flip_tta": false,
+    "flip_p": 0.5,
+    "brightness": 0.15,
+    "contrast": 0.15,
+    "saturation": 0.1,
+    "rotation": 4.0,
+    "translate": 0.03,
+    "scale_jitter": 0.03,
+    "blur_p": 0.01,
+    "erase_p": 0.0,
+    "mean": [
+      0.485,
+      0.456,
+      0.406
+    ],
+    "std": [
+      0.229,
+      0.224,
+      0.225
+    ],
+    "num_classes": 8,
+    "weights": "IMAGENET1K_V1",
+    "baseline_source": null,
+    "torch_version": "2.14.1+cu126",
+    "torchvision_version": "0.29.1+cu126"
+  },
+  "validation": {
+    "loss": 0.01578019232030676,
+    "accuracy": 0.9965441407477222,
+    "macro_f1": 0.9966775676040089
+  },
+  "rows": 29443,
+  "submission_sha256": "95792e3a70b66939483fcc5643d534a5eab7a52a142d8c8e425e6f51cee86d34"
+}
