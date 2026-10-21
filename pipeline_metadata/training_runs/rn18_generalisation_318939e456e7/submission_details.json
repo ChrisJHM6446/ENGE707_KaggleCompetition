@@ -1,0 +1,15 @@
+{
+  "submission": "c:\\Users\\chris\\OneDrive - AUT University\\Documents\\dataeng_ai_foundation\\KaggleCompetition\\pipeline_metadata\\training_runs\\rn18_generalisation_318939e456e7\\submission.csv",
+  "rows": 29443,
+  "sha256": "481532fd612579be427e36534cedbfc7b53f8138ef84a991b65c21ec5bc35a74",
+  "all_labelled_refit": true,
+  "flip_tta": true,
+  "development_checkpoint": "c:\\Users\\chris\\OneDrive - AUT University\\Documents\\dataeng_ai_foundation\\KaggleCompetition\\model_checkpoints\\rn18_generalisation_318939e456e7\\validation_run\\best.pt",
+  "development_validation": {
+    "accuracy": 0.9977217377641606,
+    "loss": 0.03422517069380285,
+    "correct": 12700
+  },
+  "kaggle_accuracy": null,
+  "warning": "Development validation scores do not evaluate the all-data-refitted weights."
+}

@@ -1,0 +1,20 @@
+{
+  "accuracy": 0.9977217377641606,
+  "loss": 0.03422517069380285,
+  "correct": 12700,
+  "flip_tta": true,
+  "selected_epoch": 16,
+  "weights": "ema",
+  "plain": {
+    "accuracy": 0.9974860554639013,
+    "loss": 0.03557034843127721,
+    "correct": 12697
+  },
+  "flip": {
+    "accuracy": 0.9977217377641606,
+    "loss": 0.03422517069380285,
+    "correct": 12700
+  },
+  "kaggle_score": null,
+  "protocol": "Known photograph groups and exact duplicate groups; validation used for selection"
+}

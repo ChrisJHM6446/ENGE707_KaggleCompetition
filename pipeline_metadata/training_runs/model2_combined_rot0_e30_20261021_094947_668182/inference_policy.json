@@ -1,0 +1,7 @@
+{
+  "flip_tta": true,
+  "method": "Average original and horizontally flipped logits",
+  "checkpoint_selection": "Single-view validation cross-entropy",
+  "learning_curves": "Single-view validation during training",
+  "final_validation_metrics": "Horizontal-flip averaged predictions"
+}

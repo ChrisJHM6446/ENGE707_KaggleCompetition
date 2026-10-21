@@ -1,0 +1,9 @@
+actual_class,CatEye,DogEye,CatFace,DogFace,CatMouth,DogMouth,CatNose,DogNose
+CatEye,2765,6,0,0,0,0,5,0
+DogEye,5,2309,0,0,0,0,2,0
+CatFace,0,1,1386,0,1,0,0,0
+DogFace,0,3,0,1155,0,0,0,0
+CatMouth,0,0,0,0,1387,0,1,0
+DogMouth,0,0,0,0,0,1158,0,0
+CatNose,2,4,0,1,1,0,1380,0
+DogNose,1,4,0,0,0,0,4,1148

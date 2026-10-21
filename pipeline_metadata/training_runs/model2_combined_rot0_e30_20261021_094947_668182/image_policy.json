@@ -1,0 +1,22 @@
+{
+  "exclude_training": {
+    "14669": "Clump of pixels, no valuable learning extracted from this. These types of images are the only ones I will exclude; this reason applies to all below.",
+    "12118": ".",
+    "44794": ".",
+    "34357": ".",
+    "37907": ".",
+    "32164": ".",
+    "62253": ".",
+    "57707": ".",
+    "36018": ".",
+    "21923": ".",
+    "51449": ".",
+    "14181": ".",
+    "10106": ".",
+    "01594": ".",
+    "49534": ".",
+    "25809": ".",
+    "01068": "."
+  },
+  "augment_only_training_ids": null
+}
