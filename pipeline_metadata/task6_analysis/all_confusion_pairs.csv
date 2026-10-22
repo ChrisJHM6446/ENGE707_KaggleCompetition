@@ -1,0 +1,131 @@
+Model,Actual,Predicted,Count,Actual-class error (%),Error type
+Model 1,CatEye,DogEye,12,0.4321209938782859,Species only
+Model 1,CatEye,CatNose,3,0.10803024846957147,Region only
+Model 1,DogEye,CatEye,7,0.3022452504317789,Species only
+Model 1,DogEye,DogFace,1,0.04317789291882556,Region only
+Model 1,DogEye,CatNose,5,0.2158894645941278,Species and region
+Model 1,DogEye,DogNose,3,0.12953367875647667,Region only
+Model 1,CatFace,CatMouth,1,0.07199424046076314,Region only
+Model 1,CatFace,CatNose,1,0.07199424046076314,Region only
+Model 1,DogFace,DogNose,1,0.08635578583765112,Region only
+Model 1,DogMouth,CatMouth,2,0.17271157167530224,Species only
+Model 1,DogMouth,DogNose,1,0.08635578583765112,Region only
+Model 1,CatNose,CatEye,1,0.07204610951008646,Region only
+Model 1,CatNose,DogEye,6,0.4322766570605187,Species and region
+Model 1,CatNose,CatMouth,4,0.2881844380403458,Region only
+Model 1,CatNose,DogMouth,1,0.07204610951008646,Species and region
+Model 1,CatNose,DogNose,1,0.07204610951008646,Species only
+Model 1,DogNose,DogEye,11,0.9499136442141624,Region only
+Model 1,DogNose,CatNose,3,0.25906735751295334,Species only
+Model 2,CatEye,DogEye,8,0.28808066258552395,Species only
+Model 2,CatEye,CatNose,3,0.10803024846957147,Region only
+Model 2,DogEye,CatEye,4,0.17271157167530224,Species only
+Model 2,DogEye,DogNose,2,0.08635578583765112,Region only
+Model 2,CatFace,CatMouth,1,0.07199424046076314,Region only
+Model 2,CatFace,CatNose,1,0.07199424046076314,Region only
+Model 2,DogFace,DogEye,1,0.08635578583765112,Region only
+Model 2,DogMouth,DogNose,1,0.08635578583765112,Region only
+Model 2,CatNose,CatEye,1,0.07204610951008646,Region only
+Model 2,CatNose,DogEye,5,0.36023054755043227,Species and region
+Model 2,CatNose,CatMouth,5,0.36023054755043227,Region only
+Model 2,CatNose,DogMouth,1,0.07204610951008646,Species and region
+Model 2,CatNose,DogNose,1,0.07204610951008646,Species only
+Model 2,DogNose,DogEye,4,0.3454231433506045,Region only
+Model 2,DogNose,CatNose,6,0.5181347150259067,Species only
+Model 3,CatEye,DogEye,8,0.28808066258552395,Species only
+Model 3,CatEye,CatNose,2,0.07202016564638099,Region only
+Model 3,DogEye,CatEye,3,0.12953367875647667,Species only
+Model 3,CatFace,CatMouth,1,0.07199424046076314,Region only
+Model 3,CatFace,CatNose,1,0.07199424046076314,Region only
+Model 3,DogMouth,CatMouth,1,0.08635578583765112,Species only
+Model 3,DogMouth,DogNose,1,0.08635578583765112,Region only
+Model 3,CatNose,CatEye,2,0.1440922190201729,Region only
+Model 3,CatNose,DogEye,4,0.2881844380403458,Species and region
+Model 3,CatNose,CatMouth,6,0.4322766570605187,Region only
+Model 3,CatNose,DogNose,1,0.07204610951008646,Species only
+Model 3,DogNose,DogEye,5,0.4317789291882556,Region only
+Model 3,DogNose,CatNose,6,0.5181347150259067,Species only
+Model 4,CatEye,DogEye,10,0.36023054755043227,Species only
+Model 4,CatEye,CatNose,6,0.21613832853025935,Region only
+Model 4,CatEye,DogNose,1,0.03602305475504323,Species and region
+Model 4,DogEye,CatEye,2,0.08635578583765112,Species only
+Model 4,DogEye,CatNose,2,0.08635578583765112,Species and region
+Model 4,CatFace,CatMouth,1,0.07204610951008646,Region only
+Model 4,DogFace,DogEye,2,0.17271157167530224,Region only
+Model 4,CatMouth,CatNose,1,0.07204610951008646,Region only
+Model 4,DogMouth,CatMouth,1,0.08635578583765112,Species only
+Model 4,CatNose,CatEye,3,0.21613832853025935,Region only
+Model 4,CatNose,DogEye,5,0.36023054755043227,Species and region
+Model 4,CatNose,CatMouth,1,0.07204610951008646,Region only
+Model 4,DogNose,CatEye,1,0.08643042350907519,Species and region
+Model 4,DogNose,DogEye,5,0.43215211754537597,Region only
+Model 4,DogNose,CatNose,3,0.25929127052722556,Species only
+Model 5,CatEye,DogEye,7,0.25207057976233344,Species only
+Model 5,CatEye,CatNose,7,0.25207057976233344,Region only
+Model 5,DogEye,CatEye,10,0.4317789291882556,Species only
+Model 5,DogEye,CatNose,3,0.12953367875647667,Species and region
+Model 5,DogEye,DogNose,4,0.17271157167530224,Region only
+Model 5,CatFace,CatNose,1,0.07199424046076314,Region only
+Model 5,DogFace,DogEye,3,0.25906735751295334,Region only
+Model 5,DogFace,DogNose,1,0.08635578583765112,Region only
+Model 5,DogMouth,CatMouth,1,0.08635578583765112,Species only
+Model 5,DogMouth,DogNose,1,0.08635578583765112,Region only
+Model 5,CatNose,CatEye,4,0.2881844380403458,Region only
+Model 5,CatNose,DogEye,3,0.21613832853025935,Species and region
+Model 5,CatNose,CatMouth,5,0.36023054755043227,Region only
+Model 5,CatNose,DogMouth,1,0.07204610951008646,Species and region
+Model 5,CatNose,DogNose,1,0.07204610951008646,Species only
+Model 5,DogNose,CatEye,1,0.08635578583765112,Species and region
+Model 5,DogNose,DogEye,3,0.25906735751295334,Region only
+Model 5,DogNose,DogMouth,1,0.08635578583765112,Region only
+Model 5,DogNose,CatNose,6,0.5181347150259067,Species only
+Model 6,CatEye,DogEye,9,0.32409074540871446,Species only
+Model 6,CatEye,DogNose,4,0.14404033129276198,Species and region
+Model 6,DogEye,CatEye,2,0.08635578583765112,Species only
+Model 6,DogEye,DogFace,1,0.04317789291882556,Region only
+Model 6,DogEye,CatNose,6,0.25906735751295334,Species and region
+Model 6,DogEye,DogNose,6,0.25906735751295334,Region only
+Model 6,CatFace,CatMouth,1,0.07199424046076314,Region only
+Model 6,DogFace,DogEye,1,0.08635578583765112,Region only
+Model 6,CatMouth,DogMouth,1,0.07204610951008646,Species only
+Model 6,CatMouth,CatNose,1,0.07204610951008646,Region only
+Model 6,DogMouth,DogNose,1,0.08635578583765112,Region only
+Model 6,CatNose,CatEye,2,0.1440922190201729,Region only
+Model 6,CatNose,DogEye,3,0.21613832853025935,Species and region
+Model 6,CatNose,CatMouth,3,0.21613832853025935,Region only
+Model 6,CatNose,DogMouth,1,0.07204610951008646,Species and region
+Model 6,CatNose,DogNose,1,0.07204610951008646,Species only
+Model 6,DogNose,DogEye,2,0.17271157167530224,Region only
+Model 6,DogNose,DogMouth,1,0.08635578583765112,Region only
+Model 6,DogNose,CatNose,4,0.3454231433506045,Species only
+Model 7,CatEye,DogEye,6,0.21613832853025935,Species only
+Model 7,CatEye,CatNose,5,0.18011527377521613,Region only
+Model 7,DogEye,CatEye,5,0.2158894645941278,Species only
+Model 7,DogEye,CatNose,2,0.08635578583765112,Species and region
+Model 7,CatFace,DogEye,1,0.07204610951008646,Species and region
+Model 7,CatFace,CatMouth,1,0.07204610951008646,Region only
+Model 7,DogFace,DogEye,3,0.25906735751295334,Region only
+Model 7,CatMouth,CatNose,1,0.07204610951008646,Region only
+Model 7,CatNose,CatEye,2,0.1440922190201729,Region only
+Model 7,CatNose,DogEye,4,0.2881844380403458,Species and region
+Model 7,CatNose,DogFace,1,0.07204610951008646,Species and region
+Model 7,CatNose,CatMouth,1,0.07204610951008646,Region only
+Model 7,DogNose,CatEye,1,0.08643042350907519,Species and region
+Model 7,DogNose,DogEye,4,0.34572169403630076,Region only
+Model 7,DogNose,CatNose,4,0.34572169403630076,Species only
+Model 8,CatEye,DogEye,3,0.10806916426512968,Species only
+Model 8,CatEye,CatNose,7,0.2521613832853026,Region only
+Model 8,CatEye,DogNose,1,0.03602305475504323,Species and region
+Model 8,DogEye,CatEye,1,0.04319654427645788,Species only
+Model 8,DogEye,CatNose,2,0.08639308855291576,Species and region
+Model 8,DogEye,DogNose,1,0.04319654427645788,Region only
+Model 8,DogFace,DogEye,1,0.08635578583765112,Region only
+Model 8,DogMouth,CatMouth,1,0.08635578583765112,Species only
+Model 8,DogMouth,DogNose,1,0.08635578583765112,Region only
+Model 8,CatNose,CatEye,2,0.1440922190201729,Region only
+Model 8,CatNose,DogEye,3,0.21613832853025935,Species and region
+Model 8,CatNose,CatMouth,1,0.07204610951008646,Region only
+Model 8,CatNose,DogNose,1,0.07204610951008646,Species only
+Model 8,DogNose,CatEye,1,0.08635578583765112,Species and region
+Model 8,DogNose,DogEye,2,0.17271157167530224,Region only
+Model 8,DogNose,CatNose,1,0.08635578583765112,Species only

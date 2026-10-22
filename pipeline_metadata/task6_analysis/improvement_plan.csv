@@ -1,0 +1,6 @@
+Priority,Proposed change,Reason,Fair evaluation,Status
+1. Data and validation,Verify questionable labelled images and extend source-photo grouping,Address ambiguous labels and optimistic validation,Keep the evaluation protocol fixed; document every data correction,Proposed; not performed in Task 6
+2. Small ablations,Test smoothing 0.01/0.03 and resolution augmentation 0/0.15 separately,Identify which changes help,Change one setting at a time on the same grouped split,Proposed; not performed in Task 6
+3. Architecture,Compare ResNet-18 and ResNet-50 with the general training recipe,Separate model capacity from training-recipe differences,Use the same groups; document pretrained weights and physical batch size,Proposed; not performed in Task 6
+4. Ensemble,Average ResNet-18/ResNet-50 class probabilities,Check whether their errors complement each other,Both development models must exclude the entire evaluation holdout from training,Proposed; not performed in Task 6
+5. Repeatability,Repeat the strongest configuration with two or three seeds,Measure variation instead of relying on one favourable run,Report mean and variation; preserve the validation protocol,Proposed; not performed in Task 6
